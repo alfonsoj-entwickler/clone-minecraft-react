@@ -1,2 +1,3 @@
-# clone-minecraft-react
-I create a simple minecraft with react and three
+# Clone minecraft with React
+
+This project is just me trying to mimic Minecraft in React.
